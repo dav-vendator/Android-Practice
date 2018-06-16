@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedElementTransitions</string>
+    <string name="transition_name">shared_image</string>
+    <string name="dav_vendator">Dav Vendator</string>
+    <string name="transition_text">transition_text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_fragment">Launch Fragment</string>
+</resources>
