@@ -7,4 +7,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="launch_fragment">Launch Fragment</string>
+    <string name="header_image">header_image</string>
+    <string name="header_image_title">header_image_title</string>
 </resources>

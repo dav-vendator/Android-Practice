@@ -5,32 +5,45 @@ import android.content.Context
 import android.net.Uri
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.support.v7.widget.LinearLayoutManager
+import android.support.v7.widget.RecyclerdView
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
+
 import io.vendator.dav.sharedelementtransitions.R
+import io.vendator.dav.sharedelementtransitions.adapters.ListAdapter
+import io.vendator.dav.sharedelementtransitions.decorations.ItemDecoration
+import io.vendator.dav.sharedelementtransitions.utilities.onItemClick
+import java.util.*
+import kotlin.collections.ArrayList
 
 
-class ImageFragment : Fragment() {
+class ImageFragment : Fragment(), onItemClick {
     private var listener: OnFragmentInteractionListener? = null
     private lateinit var inflatedView : View
+    private lateinit var recyclerView: RecyclerView
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //TODO : Add code here
+
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
-
-       inflatedView = inflater.inflate(R.layout.fragment_image, container, false)
-
+        inflatedView = inflater.inflate(R.layout.fragment_image, container, false)
+        recyclerView = inflatedView.findViewById(R.id.recycler)
+        recyclerView.addItemDecoration(ItemDecoration())
+        recyclerView.adapter = ListAdapter(ArrayList(Collections.nCopies(10,"TextView")),this)
+        recyclerView.layoutManager = LinearLayoutManager(activity)
         return inflatedView
     }
 
 
-    fun onGridImagePressed(uri: Uri) {
-        listener?.onFragmentInteraction(uri)
+    fun onGridImagePressed(view: View) {
+        listener?.onFragmentInteraction(view)
     }
 
     override fun onAttach(context: Context) {
@@ -47,10 +60,12 @@ class ImageFragment : Fragment() {
         listener = null
     }
 
+    override fun onClick(view: View) {
+       this.listener!!.onFragmentInteraction(view)
+    }
 
     interface OnFragmentInteractionListener {
-
-        fun onFragmentInteraction(uri: Uri)
+        fun onFragmentInteraction(view: View)
     }
 
 }

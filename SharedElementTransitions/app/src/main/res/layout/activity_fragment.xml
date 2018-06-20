@@ -5,8 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activities.FragmentActivity">
+
     <FrameLayout
+        android:id="@+id/fragment_stage"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/fragment_stage"/>
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
