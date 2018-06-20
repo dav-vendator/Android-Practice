@@ -33,8 +33,7 @@ class ImageDescriptionFragment : Fragment() {
        }
         //postponeEnterTransition();
         setSharedElementEnterTransition(TransitionInflater.from(getContext()).inflateTransition(android.R.transition.move))
-
-
+        setSharedElementReturnTransition(TransitionInflater.from(context).inflateTransition(android.R.transition.move))
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
@@ -46,7 +45,7 @@ class ImageDescriptionFragment : Fragment() {
        return view
     }
 
-    // TODO: Rename method, update argument and hook method into UI event
+
     fun onButtonPressed(uri: Uri) {
         listener?.onFragmentInteraction(uri)
     }
