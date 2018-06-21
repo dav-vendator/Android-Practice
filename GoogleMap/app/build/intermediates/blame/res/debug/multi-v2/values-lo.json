@@ -1,0 +1,196 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/emilence/AndroidStudioProjects/GoogleMap2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7a5857aad2b3b87dd8403524f7f001e3/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,1816",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,1892"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,87",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,9489",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,9565"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/8820ef29f06645c7e289ba9c4a5cc635/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "241",
+                        "endColumns": "99",
+                        "endOffsets": "340"
+                    },
+                    "to": {
+                        "startLines": "76",
+                        "startColumns": "4",
+                        "startOffsets": "8507",
+                        "endColumns": "103",
+                        "endOffsets": "8606"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e15835d2e12904cd6679a024776f40ad/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "190",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "66",
+                        "startColumns": "4",
+                        "startOffsets": "6938",
+                        "endColumns": "190",
+                        "endOffsets": "7124"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d31b053ca08cd72527f78d16597ff4fb/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "88",
+                        "startColumns": "4",
+                        "startOffsets": "9570",
+                        "endColumns": "100",
+                        "endOffsets": "9666"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/67e332e8c795020baca9f0522322da88/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "238",
+                        "endColumns": "100",
+                        "endOffsets": "338"
+                    },
+                    "to": {
+                        "startLines": "89",
+                        "startColumns": "4",
+                        "startOffsets": "9671",
+                        "endColumns": "104",
+                        "endOffsets": "9771"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/18eb1029c59069c381a1f673dfce8739/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "231,332",
+                        "endColumns": "100,91",
+                        "endOffsets": "331,423"
+                    },
+                    "to": {
+                        "startLines": "78,79",
+                        "startColumns": "4,4",
+                        "startOffsets": "8712,8817",
+                        "endColumns": "104,95",
+                        "endOffsets": "8812,8908"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/0c42c0607cc78e998475c95d47319eca/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "286,427,569,676",
+                        "endColumns": "140,141,106,98",
+                        "endOffsets": "426,568,675,774"
+                    },
+                    "to": {
+                        "startLines": "36,37,38,39",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3574,3715,3857,3968",
+                        "endColumns": "140,141,110,102",
+                        "endOffsets": "3710,3852,3963,4066"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/db19f04890a1bf589f0b8bdd4f2e13c6/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "281,387,589,717,822,1033,1156,1290,1431,1642,1745,1942,2069,2299,2486,2580,2675",
+                        "endColumns": "105,201,127,104,210,122,133,140,210,102,196,126,229,186,93,94,109",
+                        "endOffsets": "386,588,716,821,1032,1155,1289,1430,1641,1744,1941,2068,2298,2485,2579,2674,2784"
+                    },
+                    "to": {
+                        "startLines": "58,59,60,61,62,63,64,65,67,68,69,70,71,72,73,74,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5764,5874,6076,6208,6317,6528,6655,6793,7129,7340,7447,7644,7775,8005,8196,8294,8393",
+                        "endColumns": "109,201,131,108,210,126,137,144,210,106,196,130,229,190,97,98,113",
+                        "endOffsets": "5869,6071,6203,6312,6523,6650,6788,6933,7335,7442,7639,7770,8000,8191,8289,8388,8502"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/83b98e0c4e9fd4c7b562eeae95bfed22/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "235,304,412,476,541,616,713",
+                        "endColumns": "68,107,63,64,74,96,69",
+                        "endOffsets": "303,411,475,540,615,712,782"
+                    },
+                    "to": {
+                        "startLines": "80,81,82,83,84,85,86",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8913,8986,9098,9166,9235,9314,9415",
+                        "endColumns": "72,111,67,68,78,100,73",
+                        "endOffsets": "8981,9093,9161,9230,9309,9410,9484"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/68652e80a164c296d492a9d12ee645ab/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "296,371,473,557,667,798,884,1037,1144,1255,1367,1465,1563,1638,1725,1815,1919,1990,2066,2136,2210,2296,2385,2475,2562,2651,2719,2812,2903,2999,3111,3255,3347,3438,3538",
+                        "endColumns": "74,101,83,109,130,85,152,106,110,111,97,97,74,86,89,103,70,75,69,73,85,88,89,86,88,67,92,90,95,111,143,91,90,99,76",
+                        "endOffsets": "370,472,556,666,797,883,1036,1143,1254,1366,1464,1562,1637,1724,1814,1918,1989,2065,2135,2209,2295,2384,2474,2561,2650,2718,2811,2902,2998,3110,3254,3346,3437,3537,3614"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1816,1895,2001,2089,2203,2334,2424,2581,2692,2807,2923,3025,3127,3206,3297,3391,3499,4071,4151,4225,4303,4393,4486,4580,4671,4764,4836,4933,5028,5128,5244,5388,5484,5579,5683",
+                        "endColumns": "78,105,87,113,130,89,156,110,114,115,101,101,78,90,93,107,74,79,73,77,89,92,93,90,92,71,96,94,99,115,143,95,94,103,80",
+                        "endOffsets": "1890,1996,2084,2198,2329,2419,2576,2687,2802,2918,3020,3122,3201,3292,3386,3494,3569,4146,4220,4298,4388,4481,4575,4666,4759,4831,4928,5023,5123,5239,5383,5479,5574,5678,5759"
+                    }
+                },
+                {
+                    "source": "/home/emilence/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/d6505262ecce3369609d2f76d9d004bf/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "228",
+                        "endColumns": "96",
+                        "endOffsets": "324"
+                    },
+                    "to": {
+                        "startLines": "77",
+                        "startColumns": "4",
+                        "startOffsets": "8611",
+                        "endColumns": "100",
+                        "endOffsets": "8707"
+                    }
+                }
+            ]
+        }
+    ]
+}
