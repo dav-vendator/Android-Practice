@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/761532a605a0f7c5e0f1c248bbb4abc2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:2:1-11:12
@@ -24,20 +25,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/emilence/.gradle/
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5233306eba570a9eef837c87d24bc9f2/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df725d5fff5b834e0415aad7aec89133/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbb9d7b79630852b5b7bf488823598da/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:11-69
@@ -45,8 +46,14 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:4:5-83
 	android:name
 		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:5:5-96
+	android:name
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:5:22-77
 application
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:26:5-30:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:11:5-20
@@ -54,35 +61,37 @@ MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/cache
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:12:9-40
 activity#vendator.dav.com.androidxtension.HomeActivity
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/761532a605a0f7c5e0f1c248bbb4abc2/AndroidManifest.xml:20:5-44
@@ -133,3 +142,9 @@ INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
 		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/dexter-5.0.0.aar/c0a0cfb759e14fb73f035e3b0a92a62b/AndroidManifest.xml:28:13-60

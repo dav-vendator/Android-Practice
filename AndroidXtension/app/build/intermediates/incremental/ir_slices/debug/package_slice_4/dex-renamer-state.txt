@@ -1,4 +1,4 @@
-#Tue Jun 26 17:11:57 IST 2018
-base.0=/home/emilence/AndroidXtension/app/build/intermediates/transforms/dexMerger/debug/21
+#Wed Jun 27 11:23:23 IST 2018
+base.0=/home/emilence/AndroidXtension/app/build/intermediates/transforms/dexMerger/debug/38
 path.0=classes.dex
 renamed.0=classes.dex
