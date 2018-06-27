@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/761532a605a0f7c5e0f1c248bbb4abc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:palette-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/9a6882a14801d9252d4206c9ac8856ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/35ac3799487d840067cf1832b7784774/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8e9ef6bb822c997fe9f620bfe8fb08b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/482bc10f14effeccd8bb4ae0271b9e8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c35296296d8b6010232899200c4bcf6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575160320ce6a78f2c71d71f37511d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c78a49aa84dc6a104b49b0f34e5ac91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0da15300fa56882c44ba84c698bb5404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b28fccf1f3e114dbef2a669cd0da12a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f825dee6be0137a8ac276cd5354a2495/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d156b0501237dfe9ba27e0c6f9c462b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68ae5dd601bd9bfd7f739457bec28924/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5233306eba570a9eef837c87d24bc9f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df725d5fff5b834e0415aad7aec89133/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbb9d7b79630852b5b7bf488823598da/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:4:5-83
+	android:name
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:11:9-40
+activity#vendator.dav.com.androidxtension.HomeActivity
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4d7463da451f9979eb761b5302cce742/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/761532a605a0f7c5e0f1c248bbb4abc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/761532a605a0f7c5e0f1c248bbb4abc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/emilence/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/87c1a0eeb8e5d7679aaf3f8ca781ea5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:palette-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/9a6882a14801d9252d4206c9ac8856ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/9a6882a14801d9252d4206c9ac8856ff/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/9e4bd75f4070be2521da782a61ea925f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/35ac3799487d840067cf1832b7784774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/35ac3799487d840067cf1832b7784774/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8e9ef6bb822c997fe9f620bfe8fb08b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8e9ef6bb822c997fe9f620bfe8fb08b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/482bc10f14effeccd8bb4ae0271b9e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/482bc10f14effeccd8bb4ae0271b9e8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c35296296d8b6010232899200c4bcf6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c35296296d8b6010232899200c4bcf6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575160320ce6a78f2c71d71f37511d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4575160320ce6a78f2c71d71f37511d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c78a49aa84dc6a104b49b0f34e5ac91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c78a49aa84dc6a104b49b0f34e5ac91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0da15300fa56882c44ba84c698bb5404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0da15300fa56882c44ba84c698bb5404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b28fccf1f3e114dbef2a669cd0da12a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b28fccf1f3e114dbef2a669cd0da12a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f825dee6be0137a8ac276cd5354a2495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f825dee6be0137a8ac276cd5354a2495/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d156b0501237dfe9ba27e0c6f9c462b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d156b0501237dfe9ba27e0c6f9c462b1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /home/emilence/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ed43c56d2377898dbd5fdcf9d139ddac/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68ae5dd601bd9bfd7f739457bec28924/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/68ae5dd601bd9bfd7f739457bec28924/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5233306eba570a9eef837c87d24bc9f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5233306eba570a9eef837c87d24bc9f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df725d5fff5b834e0415aad7aec89133/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/df725d5fff5b834e0415aad7aec89133/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbb9d7b79630852b5b7bf488823598da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/emilence/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cbb9d7b79630852b5b7bf488823598da/AndroidManifest.xml:20:5-44
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		ADDED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
+		INJECTED from /home/emilence/AndroidXtension/app/src/main/AndroidManifest.xml
