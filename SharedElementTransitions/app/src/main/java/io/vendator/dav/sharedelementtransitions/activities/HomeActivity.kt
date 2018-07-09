@@ -8,7 +8,9 @@ import android.support.v4.app.ActivityOptionsCompat
 import android.content.Intent
 import android.widget.ImageView
 import android.widget.TextView
+import com.squareup.picasso.Picasso
 import io.vendator.dav.sharedelementtransitions.R
+import kotlinx.android.synthetic.main.activity_home.*
 
 
 class HomeActivity : AppCompatActivity() {
@@ -17,6 +19,9 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         window.exitTransition = null
+        Picasso.get()
+               .load("https://images.unsplash.com/photo-1475738384599-8cf3db232ffa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1c8aa50c5dd4cdf4b25b49ccca05e36a&auto=format&fit=crop&w=1015&q=80")
+                .into(imageView)
     }
 
     fun startAnimating(view : View){

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SharedElementTransitions</string>
+    <string name="app_name">SharedElementTransitionsAsync</string>
     <string name="transition_name">shared_image</string>
     <string name="dav_vendator">Dav Vendator</string>
     <string name="transition_text">transition_text</string>

@@ -10,13 +10,11 @@ import android.view.View
 
 class ItemDecoration : RecyclerView.ItemDecoration() {
 
-    private val paintBlue: Paint
+    private val paintBlue: Paint = Paint(Paint.ANTI_ALIAS_FLAG)
     private val paintRed: Paint
-    private val offset: Int
+    private val offset: Int = 10
 
     init {
-        offset = 10
-        paintBlue = Paint(Paint.ANTI_ALIAS_FLAG)
         paintBlue.setColor(Color.TRANSPARENT)
         paintBlue.setStyle(Paint.Style.STROKE)
         paintBlue.setStrokeWidth(3F)
